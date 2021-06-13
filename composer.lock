@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5d216d30d51bb6eaf511d503bc8da97c",
+    "packages": [
+        {
+            "name": "malico/mobile-cm-php",
+            "version": "1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/malicoo/mobile-cm-php.git",
+                "reference": "ab0fd48522cbc3db3e9b86b7c9ba6cf85981919c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/malicoo/mobile-cm-php/zipball/ab0fd48522cbc3db3e9b86b7c9ba6cf85981919c",
+                "reference": "ab0fd48522cbc3db3e9b86b7c9ba6cf85981919c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Malico\\MobileCM\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Malico",
+                    "email": "hi@malico.me"
+                }
+            ],
+            "description": "Get Telephone number's Mobile Network",
+            "support": {
+                "issues": "https://github.com/malicoo/mobile-cm-php/issues",
+                "source": "https://github.com/malicoo/mobile-cm-php/tree/1.2"
+            },
+            "time": "2020-08-12T00:26:55+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
