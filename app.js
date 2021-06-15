@@ -17,7 +17,7 @@ const PhoneApp = () => {
   }
 
   return (
-    <div className="max-w-3xl mx-auto p-16 flex space-x-5">
+    <div className="max-w-3xl mx-auto p-16 flex flex-wrap space-x-5">
       <form onSubmit={checkNumber} className="mb-5">
         <a
           href="https://github.com/yondifon/mobile-cm-php"
